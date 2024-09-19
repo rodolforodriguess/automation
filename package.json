@@ -1,0 +1,13 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "QA challenge",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Rodolfo Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3",
+    "cypress": "^12.13.0"
+  }
+}
